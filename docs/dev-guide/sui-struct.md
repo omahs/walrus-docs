@@ -17,7 +17,7 @@ Walrus objects in your own Sui smart contracts.
 
 ```admonish danger title="A word of caution"
 Walrus Testnet will use new Move packages with struct layouts and function signatures that may not
-be compatible with this package. Move code that builds against this package will need to rewritten.
+be compatible with this package. Move code that builds against this package will need to be rewritten.
 ```
 
 ## Blob and storage objects
